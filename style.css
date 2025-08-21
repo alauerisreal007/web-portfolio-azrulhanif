@@ -44,6 +44,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    overflow-x: hidden;
 }
 
 .logo {
@@ -217,6 +218,7 @@ body {
     .cards {
         grid-template-columns: 1fr;
         max-width: 100%;
+    }
 }
 
 /* Experiences */
