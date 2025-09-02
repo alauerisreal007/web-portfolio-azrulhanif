@@ -499,6 +499,10 @@ body {
     color: white;
 }
 
+.contact-icon a:hover {
+    color: orange;
+}
+
 /* FOOTER */
 footer {
     display: block;
