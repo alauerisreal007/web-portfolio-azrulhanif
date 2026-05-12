@@ -272,6 +272,7 @@ body {
 
 .frame-work {
     display: flex;
+    align-items: center;
     flex-wrap: wrap;
     gap: 10px;
     margin-top: 1rem;
